@@ -20,7 +20,7 @@
 - 👨‍💻 Check out my projects: **[GitHub Portfolio](https://github.com/aryaman22-hubb?tab=repositories)**
 - 💬 Ask me about **C, C++, Python, Java, JavaScript**
 - 📫 Reach me at: **aryamanworks20@gmail.com**
-- ⚡ Fun fact: *🐛 Finding bugs in my code is like playing hide and seek—with a very sneaky opponent.*
+- ⚡ Fun fact: ```*🐛 Finding bugs in my code is like playing hide and seek—with a very sneaky opponent.*```
 
 ---
 
