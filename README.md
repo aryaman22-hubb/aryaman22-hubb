@@ -55,6 +55,8 @@
   </a>
 </p>
 
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,4 +65,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&locale=en" alt="aryaman22-hubb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman22-hubb&" alt="aryaman22-hubb" /></p>
+
+
 ---
+
+
