@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[ASAP Project](https://github.com/kalviumcommunity/s84_GroupChatEmojiStat)**
+- 🔭 I’m currently working on **[ASAP Project](https://github.com/kalviumcommunity/s84_GroupChatEmojiStats)**
 - 🌱 I’m currently learning **MongoDB, Express.js, Node.js**
 - 👨‍💻 Check out my projects: **[GitHub Portfolio](https://github.com/aryaman22-hubb?tab=repositories)**
 - 💬 Ask me about **C, C++, Python, Java, JavaScript**
