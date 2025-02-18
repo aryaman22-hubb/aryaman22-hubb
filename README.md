@@ -1,4 +1,9 @@
-<<h1 align="center">Hi 👋, I'm Aryaman Panwar</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 50px; font-weight: 700; color: #2c3e50; 
+                          text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.1); margin: 0;">
+  Hi 👋, I'm <span style="color: #e74c3c; font-style: italic;">Aryaman Panwar</span>
+</h1>
+
+</h1>
 <h3 align="center">
   💻 Full-Stack Developer <br><br>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
