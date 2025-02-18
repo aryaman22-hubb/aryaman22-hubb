@@ -69,7 +69,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact" alt="aryaman22-hubb" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="aryaman22-hubb" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&locale=en" alt="aryaman22-hubb" /></p>
 
