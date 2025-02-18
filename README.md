@@ -13,14 +13,15 @@
 </p>
 
 ---
-
 ### 🚀 About Me
-- 🔭 I’m currently working on **[ASAP Project](https://github.com/kalviumcommunity/s84_GroupChatEmojiStats)**
-- 🌱 I’m currently learning **MongoDB, Express.js, Node.js**
-- 👨‍💻 Check out my projects: **[GitHub Portfolio](https://github.com/aryaman22-hubb?tab=repositories)**
-- 💬 Ask me about **C, C++, Python, Java, JavaScript**
-- 📫 Reach me at: **aryamanworks20@gmail.com**
-- ⚡ Fun fact: *🐛 Finding bugs in my code is like playing hide and seek—with a very sneaky opponent.*
+
+- 🔭 **Currently working on:** [**ASAP Project**](https://github.com/kalviumcommunity/s84_GroupChatEmojiStats)
+- 🌱 **Currently learning:** MongoDB, Express.js, Node.js
+- 👨‍💻 **Check out my projects:** [**GitHub Portfolio**](https://github.com/aryaman22-hubb?tab=repositories)
+- 💬 **Ask me about:** C, C++, Python, Java, JavaScript
+- 📫 **Reach me at:** [**aryamanworks20@gmail.com**](mailto:aryamanworks20@gmail.com)
+- ⚡ **Fun fact:** *🐛 Finding bugs in my code is like playing hide and seek—with a very sneaky opponent.*
+
 
 ---
 
