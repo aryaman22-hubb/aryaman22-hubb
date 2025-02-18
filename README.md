@@ -64,14 +64,12 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+### 📊 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryaman22-hubb&bg_color=000000&color=ffffff&line=00ff00&point=ffcc00)
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
-</p>
+
+
+
 
 ---
 
@@ -92,14 +90,17 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="aryaman22-hubb" />
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&locale=en" alt="aryaman22-hubb" /></p>
+<br> <!-- Adds space between sections -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman22-hubb&" alt="aryaman22-hubb" /></p>
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman22-hubb&theme=radical" alt="GitHub Streak"/>
+</p>
+
 
 
 ---
