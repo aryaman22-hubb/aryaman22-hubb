@@ -27,7 +27,15 @@
 - 👨‍💻 **Check out my projects:** [**GitHub Portfolio**](https://github.com/aryaman22-hubb?tab=repositories)
 - 💬 **Ask me about:** C, C++, Python, Java, JavaScript
 - 📫 **Reach me at:** [**aryamanworks20@gmail.com**](mailto:aryamanworks20@gmail.com)
-- ⚡ **Fun fact:** *🐛 Finding bugs in my code is like playing hide and seek—with a very sneaky opponent.*
+- ⚡ **Did You Know ?:** *GitHub started in 2008 as a simple tool to make Git easier? Fast forward, and it now hosts over 200 million repositories—making it the ultimate hub for developers!*
+
+
+
+
+
+
+
+*
 
 
 ---
