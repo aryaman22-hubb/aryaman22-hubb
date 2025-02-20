@@ -102,7 +102,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=aryaman22-hubb&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=5" alt="Top Languages"/>
 </p>
 
 <br> <!-- Adds space between sections -->
