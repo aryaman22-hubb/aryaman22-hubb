@@ -59,36 +59,12 @@
 ## Languages
 <table>
   <tr>
-   <td align="center">
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java
-    </a>
-</td>
-<td align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript
-    </a>
-</td>
-<td align="center">
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"><br>Python
-    </a>
-</td>
-<td align="center">
-    <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"><br>C++
-    </a>
-</td>
-<td align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"><br>HTML
-    </a>
-</td>
-<td align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"><br>CSS
-    </a>
-</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"><br>CSS</td>
 
   </tr>
 </table>
