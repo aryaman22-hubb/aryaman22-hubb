@@ -56,26 +56,47 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-<a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/selenium-%23D9E3E6.svg?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://jasmine.github.io/" target="_blank"><img src="https://img.shields.io/badge/jasmine-%23D36E72.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
+## Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"><br>CSS</td>
+  </tr>
+</table>
 
 
+---
+
+## Development Frameworks and Libraries
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40"><br>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"><br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40"><br>Selenium</td>
+    <td align="center"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"><br>Vite</td>
+  </tr>
+</table>
+
+---
+
+## IDEs and Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40"><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40"><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"><br>Figma</td>
+    <td align="center"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin" width="40"><br>Zeplin</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40"><br>Postman</td>
+  </tr>
+</table>
 
 ---
 
