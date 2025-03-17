@@ -3,6 +3,7 @@
   Hi 👋, I'm <span style="color: #e74c3c; font-style: italic;">Aryaman Panwar</span>
 </h1>
 
+
 </h1>
 <h3 align="center">
   💻 Full-Stack Developer <br><br>
@@ -21,6 +22,8 @@
 
 ---
 ### 🚀 About Me
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300" />
+
 
 - 🔭 **Currently working on:** [**ASAP Project**](https://github.com/kalviumcommunity/s84_GroupChatEmojiStats)
 - 🌱 **Currently learning:** MongoDB, Express.js, Node.js
