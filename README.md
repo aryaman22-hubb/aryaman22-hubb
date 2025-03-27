@@ -134,7 +134,7 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaman22-hubb&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=5" alt="Top Languages"/>
 </p>
 
-<br> <!-- Adds space between sections -->
+<br> 
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaman22-hubb&theme=radical" alt="GitHub Streak"/>
