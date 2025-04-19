@@ -61,7 +61,6 @@
 ## Languages
 <table>
   <tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"><br>C++</td>
@@ -81,7 +80,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40"><br>Redux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"><br>Express.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40"><br>Selenium</td>
     <td align="center"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"><br>Vite</td>
   </tr>
 </table>
@@ -96,7 +94,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40"><br>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"><br>Figma</td>
-    <td align="center"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin" width="40"><br>Zeplin</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40"><br>Postman</td>
   </tr>
 </table>
