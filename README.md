@@ -26,7 +26,7 @@
 - 🔭 **Currently working on:** [**ASAP Project**](https://github.com/kalviumcommunity/s84_GroupChatEmojiStats)
 - 🌱 **Currently learning:** MongoDB, Express.js, Node.js
 - 👨‍💻 **Check out my projects:** [**GitHub Portfolio**](https://github.com/aryaman22-hubb?tab=repositories)
-- 💬 **Ask me about:** C, C++, Python, Java, JavaScript
+- 💬 **Ask me about:** C, C++, Python, JavaScript
 - 📫 **Reach me at:** [**aryamanworks20@gmail.com**](mailto:aryamanworks20@gmail.com)
 - ⚡ **Did You Know ?:** *GitHub started in 2008 as a simple tool to make Git easier. Fast forward, and it now hosts over 200 million repositories—making it the ultimate hub for developers!*
 
